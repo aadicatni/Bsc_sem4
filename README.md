@@ -1,4 +1,4 @@
-#TIMETABLE SCHEDULING USING GENETIC ALGORITHM
+# TIMETABLE SCHEDULING USING GENETIC ALGORITHM
 A project about using genetic algorithm on timetabling
 
 
